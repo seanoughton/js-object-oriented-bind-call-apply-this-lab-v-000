@@ -4,3 +4,9 @@
 function justInvoke(fn) {
   return fn();
 };
+
+//setThisWithCall(fn, thisValue, arg): The function again invokes the function passed to it, but uses the call method to return the function's this value. (Make sure to correctly pass the third argument!)
+
+function setThisWithCall(fn, thisValue, arg) {
+
+};
