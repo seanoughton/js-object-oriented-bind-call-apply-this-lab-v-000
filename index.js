@@ -18,3 +18,7 @@ function setThisWithApply(fn, thisValue, args) {
 };
 
 //returnNewFunctionOf(functionToBeCopied, thisValue): Here, we ask you to write a function that returns a copy of the function passed through, but sets the this value of the function's copy.
+
+function returnNewFunctionOf(functionToBeCopied, thisValue) {
+  
+};
